@@ -2,6 +2,10 @@
 
 An app that allows the user to navigate through other users' reviews.
 
+
+## Screenshot 
+
+![Screenshot](./assets/img/screenshot.png)
 ## Features
 
 - Navigation buttons to scroll reviews left, and right.
